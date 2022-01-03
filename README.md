@@ -1,2 +1,2 @@
-# samuelbmiller.github.io-
+# samuelbmiller.github.io
 Personal Website
